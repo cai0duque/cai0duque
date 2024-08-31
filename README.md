@@ -18,6 +18,7 @@
 - **Frameworks & Tools**: React, Node.js, Docker, Django, etc.
 - **Other**: API Integration, Data Analysis, Cybersecurity, etc.
 
+<a href="https://rapidapi.com/collection/top-free-apis"><img src="./duques_API.png" alt="API Integrations" width="40" height="40"></a>
 <a href="https://github.com/CyberSecurityUP/OSCE3-Complete-Guide?tab=readme-ov-file#osce-and-osee-study-guide-"><img src="./blurple4.png" alt="Data Analysis" width="40" height="40"></a>
 <a href="https://www.kali.org"><img src="./wkalikalib.png" alt="Kali Linux" width="40" height="40"></a>
 

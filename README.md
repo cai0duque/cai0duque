@@ -18,7 +18,7 @@
 - **Frameworks & Tools**: React, Node.js, Docker, Django, etc.
 - **Other**: API Integration, Data Analysis, Cybersecurity, etc.
 
-<a href="https://www.kali.org"><img src="./bkali.png" alt="Kali Linux" width="40" height="40"></a>
+<a href="https://www.kali.org"><img src="./bkalikali.png" alt="Kali Linux" width="40" height="40"></a>
 
 # Connect with me
 - [BlueSky](<https://bsky.app/profile/caioduque.dev>)

@@ -18,5 +18,5 @@
 - contact@caioduque.dev
 ---
 
-Feel free to reach out if you have any questions or just want to connect!
+Don't hesitate to reach out if you'd like to connect or collaborate!
 

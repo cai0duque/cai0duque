@@ -15,7 +15,7 @@
 - [BlueSky](<https://bsky.app/profile/caioduque.dev>)
 - [GitHub](<https://github.com/cai0duque>)
 - [Discord](<https://discord.gg/B9aeaWq2UH>)
-- [Contact-Mail](<contact@caioduque.dev>)
+- Contact-Mail: contact@caioduque.dev
 ---
 
 Feel free to reach out if you have any questions or just want to connect!

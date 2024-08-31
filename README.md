@@ -15,8 +15,8 @@
 <a href="https://www.w3.org/Style/CSS/"><img src="./programming_emotes/CSS.png" alt="CSS" width="40" height="40"></a>
 <a href="https://html.spec.whatwg.org/"><img src="./programming_emotes/HTML.png" alt="HTML" width="40" height="40"></a>
 
-- **Frameworks & Tools**: React, Node.js, Docker, Django, etc.
-- **Other**: API Integration, Data Analysis, Cybersecurity, etc.
+- **Frameworks & Tools**: React, Node.js, Docker.
+- **Other**: API Integration, Data Analysis, Cybersecurity.
 
 <a href="https://rapidapi.com/collection/top-free-apis"><img src="./duques_API.png" alt="API Integrations" width="40" height="40"></a>
 <a href="https://github.com/CyberSecurityUP/OSCE3-Complete-Guide?tab=readme-ov-file#osce-and-osee-study-guide-"><img src="./blurple4.png" alt="Data Analysis" width="40" height="40"></a>

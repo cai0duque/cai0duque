@@ -1,5 +1,4 @@
-![blackhole](./blackhole.png)
-## Hi there 👋
+## ![blackhole](./blackhole.png) Hi there 👋
 
 - I'm currently working on a digital platform called LearnConnet HUB that aims to facilitate access to study materials and integrate everything with my @Discord server.
 - I’m studying advanced Python, Java, Web3 techniques and Discord API integration.

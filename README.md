@@ -18,5 +18,5 @@
 - [Contact-Mail](<contact@caioduque.dev>)
 ---
 
--# Feel free to reach out if you have any questions or just want to connect!
+Feel free to reach out if you have any questions or just want to connect!
 

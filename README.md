@@ -12,6 +12,8 @@
 <a href="https://www.python.org"><img src="./programming_emotes/langPython.png" alt="Python" width="40" height="40"></a>
 <a href="https://www.javascript.com"><img src="./programming_emotes/JavaScript.png" alt="JavaScript" width="40" height="40"></a>
 <a href="https://www.java.com"><img src="./programming_emotes/langJava.png" alt="Java" width="40" height="40"></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="./programming_emotes/CSS.png" alt="CSS" width="40" height="40"></a>
+<a href="https://html.spec.whatwg.org/"><img src="./programming_emotes/HTML.png" alt="HTML" width="40" height="40"></a>
 
 - **Frameworks & Tools**: React, Node.js, Docker, Django, etc.
 - **Other**: API Integration, Data Analysis, Cybersecurity, etc.

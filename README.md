@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**cai0duque/cai0duque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm currently working on a digital platform called LearnConnet HUB that aims to facilitate access to study materials and integrate everything with my @Discord server.
+- I’m studying advanced Python, Java, Web3 techniques and Discord API integration.
+- I’m looking to collaborate on open-source projects, especially those involving cybersecurity and Front-End development.
+- Ask me about Python, Java, or anything tech-related!
+- Just so you know: I love astronomy and by just 1 decision I didn't become an astrophysicist or mathematician.
 
-Here are some ideas to get you started:
+# Skills
+- **Programming Languages**: Python, Java, JavaScript, etc.
+- **Frameworks & Tools**: React, Node.js, Docker, Django, etc.
+- **Other**: API Integration, Data Analysis, Cybersecurity, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Connect with me
+- [BlueSky](<https://bsky.app/profile/caioduque.dev>)
+- [GitHub](<https://github.com/cai0duque>)
+- [Discord](<https://discord.gg/B9aeaWq2UH>)
+- [Contact-Mail](<contact@caioduque.dev>)
+---
+
+-# Feel free to reach out if you have any questions or just want to connect!
+

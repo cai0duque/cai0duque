@@ -7,7 +7,7 @@
 - Just so you know: I love astronomy and by just one decision I didn't become an astrophysicist or mathematician.
 
 # Skills
-- **Programming & Mark Languages** 
+**Programming & Mark Languages** 
 
 <a href="https://www.python.org"><img src="./programming_emotes/langPython.png" alt="Python" width="20" height="20"></a> Python
 
@@ -19,15 +19,18 @@
 
 <a href="https://html.spec.whatwg.org/"><img src="./programming_emotes/HTML.png" alt="HTML" width="20" height="20"></a> HTML
 
-- **Frameworks & Tools**
+**Frameworks & Tools**
 
 <a href="https://nodejs.org/"><img src="./programming_emotes/NodeJS.png" alt="Node.js" width="20" height="20"></a> Node.JS
+
 <a href="https://reactjs.org/"><img src="./programming_emotes/react.png" alt="React" width="20" height="20"></a> React
 
-- **Other**
+**Other**
 
 <a href="https://rapidapi.com/collection/top-free-apis"><img src="./duques_API.png" alt="API Integrations" width="20" height="20"></a> API Integrations
+
 <a href="https://github.com/CyberSecurityUP/OSCE3-Complete-Guide?tab=readme-ov-file#osce-and-osee-study-guide-"><img src="./blurple4.png" alt="Data Analysis" width="20" height="20"></a> Data Analysis
+
 <a href="https://www.kali.org"><img src="./wkalikalib.png" alt="Kali Linux" width="20" height="20"></a> Cybersecurity
 
 # Contact me

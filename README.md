@@ -15,14 +15,18 @@
 <a href="https://www.w3.org/Style/CSS/"><img src="./programming_emotes/CSS.png" alt="CSS" width="40" height="40"></a>
 <a href="https://html.spec.whatwg.org/"><img src="./programming_emotes/HTML.png" alt="HTML" width="40" height="40"></a>
 
-- **Frameworks & Tools**: React, Node.js, Docker.
-- **Other**: API Integration, Data Analysis, Cybersecurity.
+- **Frameworks & Tools**
+
+<a href="https://nodejs.org/"><img src="./programming_emotes/NodeJS.png" alt="Node.js" width="40" height="40"></a>
+<a href="https://reactjs.org/"><img src="./programming_emotes/react.png" alt="React" width="40" height="40"></a>
+
+- **Other**
 
 <a href="https://rapidapi.com/collection/top-free-apis"><img src="./duques_API.png" alt="API Integrations" width="40" height="40"></a>
 <a href="https://github.com/CyberSecurityUP/OSCE3-Complete-Guide?tab=readme-ov-file#osce-and-osee-study-guide-"><img src="./blurple4.png" alt="Data Analysis" width="40" height="40"></a>
 <a href="https://www.kali.org"><img src="./wkalikalib.png" alt="Kali Linux" width="40" height="40"></a>
 
-# Connect with me
+# Contact me
 - [BlueSky](<https://bsky.app/profile/caioduque.dev>)
 - [GitHub](<https://github.com/cai0duque>)
 - [Discord](<https://discord.gg/B9aeaWq2UH>)

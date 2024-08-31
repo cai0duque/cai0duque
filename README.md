@@ -7,7 +7,8 @@
 - Just so you know: I love astronomy and by just 1 decision I didn't become an astrophysicist or mathematician.
 
 # Skills
-- **Programming Languages**: <a href="https://www.python.org"><img src="./programming_emotes/langPython.png" alt="Python" width="40" height="40"></a>
+- **Programming Languages** 
+<a href="https://www.python.org"><img src="./programming_emotes/langPython.png" alt="Python" width="40" height="40"></a>
 <a href="https://www.javascript.com"><img src="./programming_emotes/JavaScript.png" alt="JavaScript" width="40" height="40"></a>
 <a href="https://www.java.com"><img src="./programming_emotes/langJava.png" alt="Java" width="40" height="40"></a>
 

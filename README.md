@@ -4,7 +4,7 @@
 - I’m studying advanced Python, Java, Web3 techniques and Discord API integration.
 - I’m looking to collaborate on open-source projects, especially those involving cybersecurity and Front-End development.
 - Ask me about Python, Java, or anything tech-related!
-- Just so you know: I love astronomy and by just 1 decision I didn't become an astrophysicist or mathematician.
+- Just so you know: I love astronomy and by just one decision I didn't become an astrophysicist or mathematician.
 
 # Skills
 - **Programming Languages** 
@@ -18,6 +18,7 @@
 - **Frameworks & Tools**: React, Node.js, Docker, Django, etc.
 - **Other**: API Integration, Data Analysis, Cybersecurity, etc.
 
+<a href="https://github.com/CyberSecurityUP/OSCE3-Complete-Guide?tab=readme-ov-file#osce-and-osee-study-guide-"><img src="./blurple4.png" alt="Data Analysis" width="40" height="40"></a>
 <a href="https://www.kali.org"><img src="./wkalikalib.png" alt="Kali Linux" width="40" height="40"></a>
 
 # Connect with me

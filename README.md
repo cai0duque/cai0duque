@@ -1,10 +1,11 @@
+![blackhole](./blackhole.png)
 ## Hi there 👋
 
 - I'm currently working on a digital platform called LearnConnet HUB that aims to facilitate access to study materials and integrate everything with my @Discord server.
 - I’m studying advanced Python, Java, Web3 techniques and Discord API integration.
 - I’m looking to collaborate on open-source projects, especially those involving cybersecurity and Front-End development.
 - Ask me about Python, Java, or anything tech-related!
-- ![blackhole](./blackhole.png) Just so you know: I love astronomy and by just 1 decision I didn't become an astrophysicist or mathematician.
+- Just so you know: I love astronomy and by just 1 decision I didn't become an astrophysicist or mathematician.
 
 # Skills
 - **Programming Languages**: <a href="https://www.javascript.com"><img src="./programming_emotes/JavaScript.png" alt="JavaScript" width="40" height="40"></a> JavaScript

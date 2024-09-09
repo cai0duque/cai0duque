@@ -1,8 +1,5 @@
 ## <img src="./blackhole.png" alt="blackhole" width="40" height="40"> Hi there 👋
 
-- I'm currently working on a digital platform called LearnConnet HUB that aims to facilitate access to study materials and integrate everything with my @Discord server.
-- I’m studying advanced Python, Java, Web3 techniques and Discord API integration.
-- I’m looking to collaborate on open-source projects, especially those involving cybersecurity and Front-End development.
 - Ask me about Python, Java, or anything tech-related!
 - Just so you know: I love astronomy and by just one decision I didn't become an astrophysicist or mathematician.
 

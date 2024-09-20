@@ -20,5 +20,3 @@
 - contact@caioduque.dev
 
 ---
-
-Don't hesitate to reach out if you'd like to connect or collaborate!

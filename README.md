@@ -15,7 +15,6 @@
 
 # Contact me
 - [BlueSky](<https://bsky.app/profile/caioduque.dev>)
-- [GitHub](<https://github.com/cai0duque>)
 - [Discord](<https://discord.gg/B9aeaWq2UH>)
 - contact@caioduque.dev
 

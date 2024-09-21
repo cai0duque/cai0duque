@@ -1,4 +1,4 @@
-<img src="./blackhole.png" alt="blackhole" width="30" height="30"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8D72DA&width=435&lines=Hi+there!" alt="Typing SVG" /></a>
+<img src="./blackhole.png" alt="blackhole" width="60" height="60"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8D72DA&width=435&lines=Hi+there!" alt="Typing SVG" /></a>
 
 - Ask me about Python, Java, or anything tech-related!
 - Just so you know: I love astronomy and by just one decision I didn't become an astrophysicist or mathematician.

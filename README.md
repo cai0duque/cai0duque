@@ -11,7 +11,8 @@
 | <a href="https://www.javascript.com"><img src="./programming_emotes/JavaScript.png" alt="JavaScript" width="20" height="20"></a> JavaScript | <a href="https://reactjs.org/"><img src="./programming_emotes/react.png" alt="React" width="20" height="20"></a> React | <a href="https://github.com/CyberSecurityUP/OSCE3-Complete-Guide?tab=readme-ov-file#osce-and-osee-study-guide-"><img src="./blurple4.png" alt="Data Analysis" width="20" height="20"></a> Data Analysis |
 | <a href="https://www.java.com"><img src="./programming_emotes/langJava.png" alt="Java" width="20" height="20"></a> Java | | <a href="https://www.kali.org"><img src="./wkalikalib.png" alt="Kali Linux" width="20" height="20"></a> Cybersecurity |
 | <a href="https://www.w3.org/Style/CSS/"><img src="./programming_emotes/CSS.png" alt="CSS" width="20" height="20"></a> CSS | | |
-| <a href="https://html.spec.whatwg.org/"><img src="./programming_emotes/HTML.png" alt="HTML" width="20" height="20"></a> HTML | | |
+| <a href="https://html.spec.whatwg.org/"><img src="./programming_emotes/HTML.png" alt="HTML" width="20" height="20"></a> HTML | | <a href="https://www.figma.com"><img src="./figma.png" alt="Figma" width="20" height="20"></a> Figma |
+
 
 # Contact me
 - [BlueSky](<https://bsky.app/profile/caioduque.dev>)

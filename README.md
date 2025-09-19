@@ -18,6 +18,6 @@
 # Contact me
 - [BlueSky](<https://bsky.app/profile/caioduque.dev>)
 - [Discord](<https://discord.gg/B9aeaWq2UH>)
-- contact@caioduque.dev
+
 
 ---

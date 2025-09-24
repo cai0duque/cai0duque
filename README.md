@@ -22,24 +22,3 @@ I build with **Python** & **TypeScript** (Node, Next, Nest) and help secure proj
 
 ### Security Toolbelt
 **OWASP Top 10**, **CodeQL**, Semgrep, Burp Suite, ZAP, Nmap, Metasploit, Kali Linux, Linux hardening, JWT/OAuth2, CSP/Headers, SSRF/RCE/XSS prevention.
-
----
-
-## What I do
-- **Security advisory consulting** on GitHub: I analyze reports, validate fixes, and provide clear repro steps & risk context to maintainers.  
-- **Full-stack builds** with Next/Nest, REST/JSON, JWT auth, role-based access, and secure file handling.  
-- **Data work** for dashboards and insights when needed (Pandas / basic BI).
-
----
-
-## Selected Projects & Areas
-- **LearnConnect Hub** – community platform (Next.js + REST) with auth, content, and moderation.  
-- **Compliance & Repo Security** – automations and dashboards for findings/alerts; CodeQL/CI pipelines.  
-- **Real-estate Portal** – search, listings, and secured admin flows.
-
----
-
-## Notes
-- I’m continuously studying **OffSec** tracks (e.g., OSCE3 path) and **OWASP** practices.  
-- Open to collaboration on AppSec, secure web apps, and tooling that makes security easier for devs.
-
